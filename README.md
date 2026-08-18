@@ -8,8 +8,9 @@
 
 ### 設計書
 
-* [README]()
-  * [機能]()
-  * [データ定義](doc\02_design\DataDifinition.md)
-  * [デザイン集]()
+* [設計 README](doc/02_design/README.md)
+  * [基本設計書](doc/02_design/design.md)
+  * [データ設計書](doc/02_design/dataDesign.md)
+  * [開発環境](doc/02_design/devEnv.md)
+  * [データ定義（レガシー）](doc/02_design/DataDifinition.md)
 
